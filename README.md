@@ -33,7 +33,7 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Spectraorder)
 
-[![Mybatis-Plus](https://img.shields.io/badge/mybatis plus-black?style=for-the-badge)](https://github.com/Spectraorder)
+[![Mybatis-Plus](https://img.shields.io/badge/mybatis%20plus-black?style=for-the-badge)](https://github.com/Spectraorder)
 
 [![Mybatis](https://img.shields.io/badge/mybatis-black?style=for-the-badge)](https://github.com/Spectraorder)
 
@@ -47,7 +47,7 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![Photoshop](https://img.shields.io/badge/photoshop-darkblue?style=for-the-badge&logo=adobephotoshop)](https://github.com/Spectraorder)
 
-[![After Effect](https://img.shields.io/badge/after effects-blueviolet?style=for-the-badge&logo=adobeaftereffects)](https://github.com/Spectraorder)
+[![After Effect](https://img.shields.io/badge/after%20effects-blueviolet?style=for-the-badge&logo=adobeaftereffects)](https://github.com/Spectraorder)
 
 [![Premiere](https://img.shields.io/badge/premiere-blueviolet?style=for-the-badge&logo=adobepremierepro)](https://github.com/Spectraorder)
 
