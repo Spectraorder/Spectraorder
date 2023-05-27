@@ -41,7 +41,7 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![Word](https://img.shields.io/badge/word-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Spectraorder)
 
-[![Excel](https://img.shields.io/badge/excel-green?style=for-the-badge&logo=microsoftexcel)](https://github.com/Spectraorder)
+[![Excel](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge&logo=microsoftexcel)](https://github.com/Spectraorder)
 
 [![Powerpoint](https://img.shields.io/badge/powerpoint-red?style=for-the-badge&logo=microsoftpowerpoint)](https://github.com/Spectraorder)
 
