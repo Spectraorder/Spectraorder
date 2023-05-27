@@ -65,4 +65,4 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Spectraorder)
 
-![Profile views](https://komarev.com/ghpvc/?username=Spectraorder)
+[![Profile views](https://komarev.com/ghpvc/?username=Spectraorder)](https://github.com/Spectraorder)
