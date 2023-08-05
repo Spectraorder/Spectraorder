@@ -33,9 +33,19 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Spectraorder)
 
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Spectraorder)
+
 [![Mybatis-Plus](https://img.shields.io/badge/mybatis%20plus-black?style=for-the-badge)](https://github.com/Spectraorder)
 
 [![Mybatis](https://img.shields.io/badge/mybatis-black?style=for-the-badge)](https://github.com/Spectraorder)
+
+# Database Familiarity
+
+[![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Spectraorder)
+
+[![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Spectraorder)
+
+[![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Spectraorder)
 
 # Technical Proficiencies
 
@@ -54,6 +64,8 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 [![intellijidea](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea)](https://github.com/Spectraorder)
 
 [![pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/Spectraorder)
+
+[![jupyter](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/Spectraorder)
 
 [![Matlab](https://img.shields.io/badge/matlab-blue?style=for-the-badge)](https://github.com/Spectraorder)
 
