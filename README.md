@@ -16,7 +16,11 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Spectraorder)
 
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)](https://github.com/Spectraorder)
+
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Spectraorder)
+
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Spectraorder)
 
 # Develop Frameworks
 [![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/Spectraorder)
