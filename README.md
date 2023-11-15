@@ -26,7 +26,7 @@ Joint majored in Computer Science and Mathematics student at NYU who is interest
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Spectraorder) [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Spectraorder)
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Spectraorder&theme=gruvbox-duo&hide_border=true&border_radius=5&card_width=800&type=png" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Spectraorder"><img src="https://streak-stats.demolab.com?user=Spectraorder&theme=gruvbox-duo&hide_border=true&border_radius=5&card_width=800&type=png" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">   <a href="https://github.com/Spectraorder">     <img src="https://komarev.com/ghpvc/?username=Spectraorder" alt="Profile views">   </a> </p>
