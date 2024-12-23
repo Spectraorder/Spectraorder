@@ -1,8 +1,8 @@
 # Welcome to my github profile
 
-I'm Daniel.
+I'm Yiming Chen.
 
-Joint majored in Computer Science and Mathematics student at NYU who is interested in software engineering.
+Master's student specializing in Machine learning at Georgia Tech.
 
 [![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yiming-chen-b8447122a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielatlas3455@gmail.com)
 
