@@ -1,6 +1,6 @@
 # Hi, I'm Yiming Chen 👋
 
-I'm an **incoming PhD student** in [Prof. Sidd Karamcheti's](https://siddkaramcheti.com/) lab, and recently graduated with a Master's in Computer Science at **Georgia Tech**, specializing in Machine Learning, where I was a member of the [Hays Lab](https://faculty.cc.gatech.edu/~hays/) advised by Prof. James Hays. My research interests are at the intersection of **computer vision** and **machine learning**, focusing on 3D scene understanding, generative modeling, and physical scene properties.
+I'm an **incoming PhD student** in [Prof. Sidd Karamcheti's](https://siddkaramcheti.com/) lab, and recently graduated with a Master's in Computer Science at **Georgia Tech**, specializing in Machine Learning, where I was a member of the Hays Lab advised by [Prof. James Hays](https://faculty.cc.gatech.edu/~hays/). My research interests are at the intersection of **computer vision** and **machine learning**, focusing on 3D scene understanding, generative modeling, and physical scene properties.
 
 Previously, I earned my Bachelor's in Computer Science and Mathematics at **NYU**, where I did research with [Prof. Gizem Kayar](https://wp.nyu.edu/courantinstituteofmathematicalsciences-gizemk/). I've had the opportunity to collaborate with **Google DeepMind** and **NVIDIA**, and interned at **Amazon Web Services**.
 
