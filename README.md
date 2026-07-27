@@ -1,32 +1,37 @@
-# Welcome to my github profile
+# Hi, I'm Yiming Chen 👋
 
-I'm Yiming Chen.
+I'm an **incoming PhD student** in [Prof. Sidd Karamcheti's](https://siddkaramcheti.com/) lab, and recently graduated with a Master's in Computer Science at **Georgia Tech**, specializing in Machine Learning, where I was a member of the [Hays Lab](https://faculty.cc.gatech.edu/~hays/) advised by Prof. James Hays. My research interests are at the intersection of **computer vision** and **machine learning**, focusing on 3D scene understanding, generative modeling, and physical scene properties.
 
-Master's student specializing in Machine learning at Georgia Tech.
+Previously, I earned my Bachelor's in Computer Science and Mathematics at **NYU**, where I did research with Prof. Gizem Kayar. I've had the opportunity to collaborate with **Google DeepMind** and **NVIDIA**, and interned at **Amazon Web Services**.
 
-[![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yiming-chen-b8447122a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielatlas3455@gmail.com)
+🌐 [yimingchen.net](https://yimingchen.net/)
 
-# Languages
+---
 
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Spectraorder) [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Spectraorder) [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Spectraorder) [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)](https://github.com/Spectraorder) [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Spectraorder) [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Spectraorder) [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/Spectraorder) [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/Spectraorder)  [![jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Spectraorder)
+## 🔬 Research Interests
 
-# Develop Frameworks
-[![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/Spectraorder) [![Springcloud](https://img.shields.io/badge/springcloud-black?style=for-the-badge&logo=spring)](https://github.com/Spectraorder) [![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Spectraorder) [![Thymeleaf](https://img.shields.io/badge/thymeleaf-black?style=for-the-badge&logo=thymeleaf)](https://github.com/Spectraorder) [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Spectraorder) [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Spectraorder) [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Spectraorder) [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Spectraorder) [![Mybatis-Plus](https://img.shields.io/badge/mybatis%20plus-black?style=for-the-badge)](https://github.com/Spectraorder) [![Mybatis](https://img.shields.io/badge/mybatis-black?style=for-the-badge)](https://github.com/Spectraorder)
+- **Generative modeling** — diffusion models, compositional & part-based image generation
+- **3D scene understanding** — CSG-based 3D asset generation, scene representation
+- **Multimodal learning** — audio-visual learning, slot attention, segmentation
 
-# Database Familiarity
+## 🎓 Background
 
-[![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Spectraorder) [![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Spectraorder) [![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Spectraorder)
+- **M.S.** Computer Science (ML), Georgia Tech
+- **B.S.** Computer Science & Mathematics, New York University
+- Research collaborations with **Google DeepMind** and **NVIDIA**; former intern at **Amazon Web Services**
 
-# Technical Proficiencies
+## 🤝 Connect
 
-[![Word](https://img.shields.io/badge/word-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Spectraorder) [![Excel](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge&logo=microsoftexcel)](https://github.com/Spectraorder) [![Powerpoint](https://img.shields.io/badge/powerpoint-red?style=for-the-badge&logo=microsoftpowerpoint)](https://github.com/Spectraorder) [![Photoshop](https://img.shields.io/badge/photoshop-darkblue?style=for-the-badge&logo=adobephotoshop)](https://github.com/Spectraorder) [![After Effect](https://img.shields.io/badge/after%20effects-blueviolet?style=for-the-badge&logo=adobeaftereffects)](https://github.com/Spectraorder) [![Premiere](https://img.shields.io/badge/premiere-blueviolet?style=for-the-badge&logo=adobepremierepro)](https://github.com/Spectraorder) [![intellijidea](https://img.shields.io/badge/intellij_idea-black?style=for-the-badge&logo=intellijidea)](https://github.com/Spectraorder) [![visual studio](https://img.shields.io/badge/visual_studio-black?style=for-the-badge&logo=visualstudio)](https://github.com/Spectraorder) [![visual studio code](https://img.shields.io/badge/visual_studio_code-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Spectraorder) [![pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/Spectraorder) [![jupyter](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/Spectraorder) [![Matlab](https://img.shields.io/badge/matlab-blue?style=for-the-badge)](https://github.com/Spectraorder) [![Typora](https://img.shields.io/badge/typora-grey?style=for-the-badge)](https://github.com/Spectraorder)
+[![Website](https://img.shields.io/badge/Website-yimingchen.net-1f6feb?style=flat-square&logo=firefox&logoColor=white)](https://yimingchen.net/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YnFTpL8AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiming-chen-b8447122a)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-9016-6646)
+[![Email](https://img.shields.io/badge/Email-ychen3868%40gatech.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ychen3868@gatech.edu)
 
-# OS
-
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Spectraorder) [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Spectraorder)
+---
 
 <p align="center">
-  <a href="https://github.com/Spectraorder"><img src="https://streak-stats.demolab.com?user=Spectraorder&theme=gruvbox-duo&hide_border=true&border_radius=5&card_width=800&type=png" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Spectraorder">
+    <img src="https://komarev.com/ghpvc/?username=Spectraorder" alt="Profile views">
+  </a>
 </p>
-
-<p align="center">   <a href="https://github.com/Spectraorder">     <img src="https://komarev.com/ghpvc/?username=Spectraorder" alt="Profile views">   </a> </p>
